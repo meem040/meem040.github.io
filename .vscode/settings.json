@@ -1,0 +1,7 @@
+{
+    "markdown.styles": [
+        "\\public\\css\\lanyon.css",
+        "\\public\\css\\poole.css",
+        "\\public\\css\\syntax.css"
+    ]
+}
