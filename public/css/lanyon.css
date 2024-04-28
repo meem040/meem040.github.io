@@ -105,12 +105,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 
-.masthead-title::before {
-	content: url("/MEEM.png");
-	display: inline-block;
-	position: relative;
-	width: 5px;
-	top: 5px;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
 
 .masthead-title a {
@@ -131,7 +130,6 @@ h1, h2, h3, h4, h5, h6 {
     display: none;
   }
 }
-
 
 /*
  * Sidebar
