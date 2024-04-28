@@ -104,6 +104,15 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
   color: #505050;
 }
+
+.masthead-title::before {
+	content: url("/MEEM.png");
+	display: inline-block;
+	position: relative;
+	width: 37px;
+	top: 5px;
+}
+
 .masthead-title a {
   color: #505050;
 }
